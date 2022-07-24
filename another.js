@@ -4,6 +4,7 @@ function another() {
   return (
     <div>
       <h1>another file via new branch</h1>
+      <h1>making 2nd commit for revert</h1>
     </div>
   );
 }
